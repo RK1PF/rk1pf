@@ -1,61 +1,84 @@
-# Raihau GRAFFE
+# 👋 Salut, je suis Raihau GRAFFE  
 
-Développeur Full-Stack passionné avec plus de 3 ans d’expérience en C#/.NET et 7 ans en développement web, spécialisé dans les applications web évolutives. Maîtrise d’ASP.NET, React.js et gestion de bases de données (SQL/NoSQL).  
-Ingénieur en informatique (CNAM), axé sur l’architecture des systèmes et les technologies cloud. Motivé pour contribuer à des solutions innovantes, solides, performantes et scalables.
+💻 Développeur **Full-Stack** passionné | ⚡ Expert en **C# / .NET & React.js** | ☁️ Intéressé par **Cloud & GenAI**  
 
-📫 **Contact** : [graffe.raihau@gmail.com](mailto:graffe.raihau@gmail.com) | [+33 07 73 68 61 74](tel:+330773686174) | [LinkedIn](https://www.linkedin.com/in/rgraffe)  
-📍 Toulouse, Occitanie, France  
+---
 
-## Compétences
-- **Back-end** : C#, .NET, ASP.NET, MVC, Node.js, NestJS, PHP, Symfony  
-- **Front-end** : React.js, Next.js, TypeScript, JavaScript, AngularJS, HTML/CSS/JS 
-- **Bases de données** : SQL Server, PostgreSQL, MongoDB, Redis, NoSQL  
-- **Outils & DevOps** : RabbitMQ, Docker, Kubernetes, Prometheus, Grafana, Git, Tortoise SVN  
-- **Méthodologies** : Agile, Revues de code, POO, Architecture MVC, MVVM, Cybersécurité  
-- **Autres** : Développement mobile, Cloud (OpenStack), GenAI exploration  
+## 🚀 À propos de moi
+- 7 ans d’expérience en développement web, dont 6 ans avec **React.js & TypeScript/JavaScript** et 3 ans en **.NET & C#**  
+- Spécialisé dans la création d’applications **scalables et performantes**  
+- Toujours curieux d’explorer des technos (En ce moment: **Rust, GenAI, Kubernetes, Homelab**)  
+- Actuellement basé à **Toulouse, France** 🇫🇷  
 
-## Expérience Professionnelle
-### Développeur Full-Stack @ Fives ProSim (Labège, France)  
-*Octobre 2022 – Présent (3 ans, Hybride)*  
-- Développement et maintenance d’apps web scalables en C#, ASP.NET et React.js.  
-- Conception d’APIs REST, intégration SQL/NoSQL, contribution à l’architecture MVC et revues de code.  
-- Migration de logiciels legacy vers SAAS (React/Next.js en 2 mois pour plus de flexibilité).  
-- Mentorat d’un développeur PHP vers .NET/React.  
-*Compétences : C#, .NET, React.js, Next.js, Node.js, NestJS, TypeScript, API Web, POO, Visual Studio.*
+---
 
-### Développeur Full-Stack Freelance @ Be Local Tahiti (Polynésie Française)  
-*Octobre 2016 – Juillet 2020 (3 ans 10 mois, Sur site)*  
-- Conception de plateformes e-commerce avec Symfony, PHP et React.js.  
-- Gestion de bases SQL/NoSQL pour apps à fort trafic, garantissant performance et scalabilité.  
-- Livraison de solutions full-stack pour entreprises locales.  
-*Compétences : E-commerce, React.js, JavaScript, WordPress, Symfony, PHP, SQL, NoSQL.*
+## 🛠️ Compétences
 
-## Formation
-### Diplôme d’Ingénieur en Informatique @ CNAM  
-*Octobre 2023 – Octobre 2025 (Spécialisation en architecture et cloud)*  
-- Architecture logicielle/systèmes, intégration, technologies web/mobile, Docker, Kubernetes, RabbitMQ.  
-- Mémoire : Optimisation de la gestion client-serveur pour systèmes distribués.  
-*Compétences : UML, IA, Cloud, Management de projets.*
+### ⚡ Back-end  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-### Licence en Informatique @ CNAM  
-*Septembre 2022 – Octobre 2023*  
-- Front/back-end, POO, bases de données (React.js, Node.js, PostgreSQL, MongoDB), cybersécurité.  
-*Compétences : Git, Réseaux, Développement Full Stack, BDD, POO.*
+### 🎨 Front-end  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)  
 
-### Titre Professionnel en Informatique (Niveau 5) @ AFPA  
-*Septembre 2021 – Mai 2022*  
-- Développement web (JavaScript, React.js, Node.js, SQL, HTML).
+### 🗄️ Bases de données  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
-### DAEU @ Université de la Polynésie Française  
-*Septembre 2019 – Juin 2020*
+### ☁️ Outils & DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
 
-### Création de Jeux Vidéo @ École Poly3D  
-*2015 – 2016*  
-- C++, POO, Unreal Engine, modélisation 2D/3D.
+---
 
-## Centres d’Intérêt
-- **Technologie** : Rust, GenAI, architectures cloud.  
-- **Créatif** : Modélisation 3D, développement de jeux vidéo.  
-- **Loisirs** : Échecs, fitness, culture polynésienne.  
+## 📌 Les projets qui m'ont marqué
 
-Langues : Français (Natif), Tahitien (Natif), Anglais (C1).
+### 🌐 Migration Legacy → SaaS (React.js + .NET)  
+Transformation d’une application legacy avec de fortes contraintes en solution SaaS moderne avec **React.js** et **ASP.NET**. 
+De l'analyse des besoins à la livraison, en passant par la conception et le développement. Simulis Web qui est la version web de [Simulis](https://www.prosim.net/en/product/simulis-thermodynamics-mixture-properties-and-fluid-phase-equilibria-calculations/) de Fives ProSim.
+
+### 🛍️ Freelance (Node.js + React)  
+Développement de plateformes e-commerce déployées en Polynésie, optimisées pour les fortes charges et la scalabilité. Accompagnement des TPE/PME à la transition numérique dans le cadre du programme Tremplin Numérique d'[OPEN](https://www.open.pf/).
+
+### 🤖 Chatbot IA (Node.js + OpenAI + Heroku)
+*Projet personnel.*
+
+Création d'un chatbot intelligent sur Telegram & Discord. Intégration de l'API OpenAI pour des réponses naturelles et pertinentes. Utilisation de Node.js pour le backend. Déploiement sur Heroku.
+
+### 🤖 Agent IA d'aide à la recherche (N8N + OpenAI API + VPS Ovh)
+*Projet personnel.*
+
+Déploiement d'un agent IA utilisant N8N pour automatiser la recherche d'informations sur le web. Intégration de l'API OpenAI pour analyser et synthétiser les données collectées et aussi appliquer une reflexion itérative (grâce à la technique de chain-of-thought) pour affiner les résultats. Déployé sur un VPS OVH.
+
+Je l'utilise pour m'aider à la veille technologique et à la recherche d'informations complexes.
+
+### 🤖 Plateforme de recherche d'emploi Intelligente (Node.js + React + MongoDB + OpenAI + Qdrant)
+*Projet de fin d'études d'ingénieur Informatique au CNAM.*
+
+Développement d'une plateforme web pour la recherche d'emploi qui facilite la connexion entre étudiants et entreprises. La plateforme utilise des algorithmes de recommandation pour suggérer des offres pertinentes.
+
+Technos : MongoDB, React.js, Node.js, OpenAI-Embedding, Qdrant.
+
+### 🎮 Développement de jeux vidéos (Unreal Engine, C++)  
+Expérimentation sur le **game design**, la **programmation** et la **modélisation 3D**, une combinaison de code et créativité.  
+
+---
+
+## 📫 Me contacter
+📧 [graffe.raihau@gmail.com](mailto:graffe.raihau@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rgraffe)  
+
+---
+
+✨ *Toujours en quête de nouveaux défis et de solutions innovantes.*  
